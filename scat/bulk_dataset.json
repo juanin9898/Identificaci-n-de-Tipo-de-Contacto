@@ -1,0 +1,365 @@
+[
+    {
+        "descripcion": "El mensajero impactó contra un poste al perder el control en una curva.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "El mensajero chocó contra una pared al estacionar en un espacio reducido.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "El trabajador tropezó y se golpeó contra un estante metálico.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "El trabajador se golpeó contra una viga al subir por una escalera.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "La trabajadora resbaló y se golpeó contra una mesa mientras limpiaba.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "El jardinero se golpeó contra una banca de concreto mientras transportaba herramientas.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "El trabajador tropezó con una caja de herramientas y se golpeó contra una puerta.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Se golpeó contra una barrera de seguridad al esquivar un peatón.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Chocó contra un bolardo de concreto al intentar estacionarse.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Se golpeó contra una puerta metálica al caminar apresurado.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Impactó su cabeza contra una estructura metálica mientras instalaba un techo.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Se golpeó contra una señal de piso mojado al girarse rápidamente.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Tropezó y golpeó su hombro contra una estatua de piedra en un jardín.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Al agacharse para revisar una fuga, se golpeó contra una tubería expuesta.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Fue golpeado por un retrovisor de otro vehículo en un embotellamiento.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Un objeto cayó del camión de adelante y golpeó su parabrisas.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Un paquete cayó desde un estante y golpeó su cabeza.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Recibió el impacto de una herramienta caída desde un nivel superior.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Un trapeador cayó de un estante y golpeó su hombro.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Un automóvil lanzó lodo con una llanta y golpeó su rostro.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Un semáforo en mal estado cayó sobre el capó y golpeó su parabrisas.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Un compañero lanzó una caja sin ver y le golpeó la espalda.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Un listón de madera cayó desde un andamio y le golpeó el pie.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Un balde de agua resbaló y golpeó su pierna.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Mientras trabajaba, un tronco rodó inesperadamente y golpeó su pierna.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Un tornillo salió disparado de una máquina y golpeó su brazo.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Cayó de su motocicleta al perder el equilibrio en una subida.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Al intentar estacionar, su pie resbaló y cayó con la moto.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Al salir del vehículo en una pendiente, resbaló y cayó al suelo.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Se apoyó en una caja inestable y cayó de una escalera.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Al pisar una tabla mal asegurada, cayó a un nivel inferior.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Mientras limpiaba ventanas, perdió el equilibrio y cayó de un banco.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Se subió a una escalera para podar y cayó cuando esta se inclinó.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Pisó en falso sobre una losa floja y cayó al piso de abajo.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Resbaló al caminar en un parqueadero con derrame de aceite.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Se tropezó con un escalón al salir del vehículo en una calle oscura.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Piso un cartón mojado y cayó de espaldas.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Tropezó con un cable de seguridad y cayó sobre una plataforma.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Mientras trapeaba, resbaló y cayó golpeándose la rodilla.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Caminando en pasto húmedo, resbaló y cayó sobre un arbusto.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Caminaba con herramientas en la mano y tropezó con una escalera en el suelo.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Su chaqueta se enganchó en el manillar al intentar bajarse y cayó.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "Su mano quedó atrapada al cerrar de golpe la puerta del vehículo.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "Sus dedos quedaron atrapados entre dos paquetes al apilarlos.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "Su arnés se enganchó en un clavo, dejándolo colgado momentáneamente.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "Su bata quedó atrapada en el rodillo de una máquina de limpieza.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "Sus botas se quedaron atascadas en un lodo profundo mientras trabajaba.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "Su brazo quedó atrapado en una reja al intentar mover una estructura pesada.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "Tocó accidentalmente el escape caliente y sufrió una quemadura.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "Abrió el radiador sin esperar a que se enfriara y el vapor le quemó la mano.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "Derramó accidentalmente un químico irritante sobre su piel.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "Hizo contacto con un cable eléctrico expuesto en la estructura.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "Al usar un desinfectante fuerte, sufrió irritación en los ojos.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "Se expuso por mucho tiempo al sol sin protección y sufrió quemaduras.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "Manipuló una lámpara halógena caliente sin guantes y se quemó los dedos.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "Mantuvo una mala postura al conducir por varias horas y sufrió dolor lumbar.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    },
+    {
+        "descripcion": "Al levantar un paquete muy pesado, sintió un fuerte dolor en la espalda.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    },
+    {
+        "descripcion": "Forzó demasiado un movimiento al empujar una caja y se lastimó la muñeca.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    },
+    {
+        "descripcion": "Permaneció encorvado por mucho tiempo y sufrió una contractura en la espalda.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    },
+    {
+        "descripcion": "Repitió el mismo movimiento al limpiar una superficie y se lesionó el hombro.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    },
+    {
+        "descripcion": "Hizo un mal movimiento con la podadora y se lesionó la rodilla.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    },
+    {
+        "descripcion": "Sufrió un tirón muscular al mover un mueble sin la ayuda adecuada.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    }
+    ,
+    {
+        "descripcion": "Perdió el equilibrio y chocó contra una reja metálica mientras caminaba.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Se golpeó la cabeza contra una viga baja al levantarse de agachado.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Un paquete cayó desde un estante y le golpeó el hombro.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Un compañero tropezó y dejó caer una herramienta sobre su pie.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Se apoyó en una baranda en mal estado y cayó a un nivel inferior.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Resbaló en una escalera húmeda y cayó desde el tercer escalón.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Tropezó con un cable en el suelo y cayó de rodillas.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Pisó una zona resbalosa con detergente y cayó de espaldas.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Su manga se enganchó en una máquina en movimiento y casi lo arrastra.",
+        "tipo": "Atrapado"
+    },
+    {
+        "descripcion": "Quedó atrapado entre dos estantes al intentar alcanzar un objeto.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "Hizo contacto con un cable pelado mientras instalaba una lámpara.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "Se expuso a una sustancia química sin guantes y tuvo irritación en la piel.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "Cargó una caja muy pesada sin ayuda y sufrió un dolor intenso en la espalda.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    },
+    {
+        "descripcion": "Realizó movimientos repetitivos con la escoba y sintió dolor en el hombro.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    }
+    ,
+    {
+        "descripcion": "Chocó contra una puerta de vidrio al no verla a tiempo.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Al bajar de la moto, se golpeó contra un bolardo en la acera.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Un espejo retrovisor de un auto en movimiento le golpeó el brazo.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Una pila de cajas mal apiladas cayó sobre su espalda.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Se apoyó en una escalera defectuosa y cayó al suelo desde dos metros de altura.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Mientras cargaba un bulto en el andamio, perdió el equilibrio y cayó.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Tropezó con una baldosa suelta y cayó de frente al suelo.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Resbaló con hojas mojadas en el parque y cayó de costado.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Su guante quedó atrapado en un engranaje en movimiento.",
+        "tipo": "Atrapado"
+    },
+    {
+        "descripcion": "Al recoger una caja grande, quedó atrapado entre dos estanterías.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "Tocó accidentalmente un tubo de escape caliente y se quemó la mano.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "Una chispa de soldadura cayó sobre su brazo y le causó una quemadura.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "Al levantar una bolsa pesada, sintió un fuerte tirón en la espalda.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    },
+    {
+        "descripcion": "Pasó varias horas pintando con el brazo levantado y sufrió fatiga extrema.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    }
+
+]

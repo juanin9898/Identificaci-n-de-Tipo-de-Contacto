@@ -1,0 +1,133 @@
+/* General */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('images/fondo1.jpeg'); /* Imagen de fondo */
+    background-size: cover;
+    background-attachment: fixed; /* Fondo estático */
+    background-position: center;
+    color: #fff; /* Texto en blanco */
+}
+
+/* Encabezado */
+header {
+    background-color: #000; /* Fondo negro */
+    color: #fff; /* Texto blanco */
+    padding: 40px 20px;
+    text-align: center;
+    position: relative;
+}
+
+.header-content {
+    position: relative;
+    z-index: 2;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/* Contenedor principal */
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+/* Sección de entrada */
+.input-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.7); /* Fondo negro con 70% de opacidad */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.input-content {
+    flex: 1;
+    margin-right: 20px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco semitransparente */
+    color: #000; /* Texto negro */
+}
+
+/* Sección de resultados */
+.result-section {
+    background-color: rgba(0, 0, 0, 0.7); /* Fondo negro con 70% de opacidad */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    color: #fff; /* Texto blanco */
+}
+
+textarea[readonly] {
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco semitransparente */
+    border: 1px solid #ccc;
+    color: #000; /* Texto negro */
+}
+
+/* Botones */
+button {
+    background-color: #fdd835; /* Fondo amarillo */
+    color: #000; /* Texto negro */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-right: 10px;
+}
+
+button:hover {
+    background-color: #fbc02d; /* Fondo amarillo más oscuro */
+}
+
+.primary-button {
+    background-color: #4caf50; /* Verde */
+    color: #fff;
+}
+
+.primary-button:hover {
+    background-color: #45a049; /* Verde más oscuro */
+}
+
+.secondary-button {
+    background-color: #f44336; /* Rojo */
+    color: #fff;
+}
+
+.secondary-button:hover {
+    background-color: #d32f2f; /* Rojo más oscuro */
+}
+
+/* Botones en la sección de resultados */
+.result-buttons {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #000; /* Fondo negro */
+    color: #fff; /* Texto blanco */
+    margin-top: 20px;
+}

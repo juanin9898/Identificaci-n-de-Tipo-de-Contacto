@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Identificación de Tipo de Contacto - SCATR</title>
+    <link rel="stylesheet" href="style.css?v=1.1">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('images/fondo1.jpeg'); /* Imagen de fondo */
+            background-size: cover;
+            background-attachment: fixed; /* Fondo estático */
+            background-position: center;
+            color: #fff; /* Texto en blanco */
+        }
+    </style>
+</head>
+<body>
+    <!-- Encabezado -->
+    <header>
+        <div class="header-content">
+            <img src="images/logo.jpg" alt="Logo" class="logo">
+            <h1>Identificación de Tipo de Contacto</h1>
+            <p class="subtitle">Sistema de Codificación y Análisis de Tipos de Riesgos (SCATR)</p>
+        </div>
+    </header>
+
+    <!-- Contenido principal -->
+    <div class="container">
+        <div class="input-section">
+            <div class="input-content">
+                <label for="descripcion">Descripción del caso:</label>
+                <textarea id="descripcion" placeholder="Escribe aquí la descripción detallada del incidente..." rows="5"></textarea>
+                
+                <div class="buttons">
+                    <button onclick="identificarContacto()" class="primary-button">Identificar Tipo de Contacto</button>
+                    <button onclick="document.getElementById('descripcion').value = ''; document.getElementById('resultado').value = '';" class="secondary-button">Limpiar</button>
+                </div>
+            </div>
+            <img src="images/personajes.png" alt="Personajes" class="characters">
+        </div>
+
+        <div class="result-section">
+            <label for="resultado">Resultado del análisis:</label>
+            <textarea id="resultado" readonly rows="6"></textarea>
+            <div class="result-buttons">
+                <button onclick="marcarCorrecto()" class="primary-button">Aprobar Resultado</button>
+                <button onclick="marcarIncorrecto()" class="secondary-button">Corregir Resultado</button>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2025 - Sistema de clasificación SCATR para accidentes laborales</p>
+    </footer>
+
+    <script src="script.js?v=1.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+</body>
+</html>

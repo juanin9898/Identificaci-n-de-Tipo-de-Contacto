@@ -1,0 +1,256 @@
+[
+    {
+        "descripcion": "El mensajero motorizado perdió el control de su moto y se golpeó contra un poste de señalización.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "El mensajero en carro no calculó bien la altura del parqueadero y golpeó su cabeza contra una tubería expuesta.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Mientras organizaba mercancía en la bodega, el trabajador giró rápidamente y golpeó su cabeza contra una repisa metálica.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Mientras se desplazaba por una estructura metálica, el trabajador en alturas tropezó y se golpeó la rodilla contra una viga de soporte.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Mientras limpiaba las escaleras, la trabajadora de aseo se inclinó y golpeó su cabeza contra el pasamanos.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "El trabajador de jardinería transportaba herramientas y se golpeó la cara contra una rama gruesa.",
+        "tipo": "Golpeada Contra"
+    },
+    {
+        "descripcion": "Mientras realizaba mantenimiento en una oficina, el trabajador todotero se agachó y al levantarse golpeó su cabeza contra un escritorio.",
+        "tipo": "Golpeada Contra"
+    }
+    ,
+    {
+        "descripcion": "Mientras conducía su moto, un objeto cayó desde un vehículo de carga y golpeó al mensajero en la pierna.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "El mensajero en carro estaba estacionado cuando una rama de árbol cayó sobre el parabrisas, golpeándolo en el brazo.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Mientras organizaba cajas en la bodega, una de ellas se deslizó de una estantería y golpeó al trabajador en el hombro.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Mientras instalaba una estructura en altura, una herramienta cayó desde un nivel superior y golpeó el casco del trabajador.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Mientras barría, una puerta mal asegurada se cerró bruscamente por el viento y golpeó a la trabajadora de aseo en la espalda.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Mientras realizaba poda de árboles, una fruta cayó y golpeó en la cabeza al trabajador de jardinería.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "Mientras reparaba un mueble, una herramienta resbaló de la mesa y golpeó la mano del trabajador todotero.",
+        "tipo": "Golpeado por"
+    },
+    {
+        "descripcion": "El mensajero en moto perdió el control al subir un andén y cayó a un nivel más bajo en una zanja en la vía.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Mientras bajaba del vehículo de reparto, el mensajero en carro pisó mal y cayó desde el estribo al suelo.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Un trabajador en bodega cayó desde una escalera cuando intentaba alcanzar una caja en un estante alto.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Mientras trabajaba en un andamio, un trabajador en altura perdió el equilibrio y cayó desde una plataforma elevada.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Mientras limpiaba una ventana en un segundo piso, la trabajadora de aseo resbaló y cayó por la escalera.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Un jardinero podaba un árbol cuando una rama cedió, haciendo que perdiera apoyo y cayera desde la escalera.",
+        "tipo": "Caída a un nivel más bajo"
+    },
+    {
+        "descripcion": "Mientras realizaba una reparación en un techo, el trabajador todotero pisó una teja frágil y cayó al piso inferior.",
+        "tipo": "Caída a un nivel más bajo"
+    }
+    ,
+    {
+        "descripcion": "El mensajero en moto resbaló al bajar de la motocicleta en una superficie mojada y cayó al suelo.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "El mensajero en carro tropezó con un borde irregular en la acera mientras entregaba un paquete y cayó al suelo.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Un trabajador en bodega resbaló con un derrame de aceite en el suelo y cayó al mismo nivel.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Un trabajador en altura caminaba sobre una plataforma resbaladiza y perdió el equilibrio, cayendo al mismo nivel.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Mientras realizaba labores de limpieza, la trabajadora de aseo tropezó con un cable suelto y cayó al suelo.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "Un jardinero pisó una piedra suelta mientras cortaba el césped y perdió el equilibrio, cayendo al suelo.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "El trabajador todotero tropezó con una herramienta en el suelo y cayó mientras realizaba una reparación.",
+        "tipo": "Caída en el mismo nivel"
+    },
+    {
+        "descripcion": "El mensajero en moto quedó atrapado entre dos vehículos al intentar esquivar un auto que frenó de repente.",
+        "tipo": "Atrapado"
+    },
+    {
+        "descripcion": "El mensajero en carro quedó atrapado en su vehículo tras un choque con otro automóvil en un cruce.",
+        "tipo": "Atrapado"
+    },
+    {
+        "descripcion": "Un trabajador en bodega quedó atrapado al quedar su mano atascada en la cinta transportadora.",
+        "tipo": "Atrapado"
+    },
+    {
+        "descripcion": "Un trabajador en altura quedó atrapado cuando su arnés se enganchó en una estructura metálica, impidiéndole moverse.",
+        "tipo": "Atrapado"
+    },
+    {
+        "descripcion": "Mientras limpiaba una máquina industrial, la trabajadora de aseo quedó atrapada cuando su guante se enganchó en los rodillos.",
+        "tipo": "Atrapado"
+    },
+    {
+        "descripcion": "Un jardinero quedó atrapado cuando una rama cayó sobre él mientras podaba un árbol.",
+        "tipo": "Atrapado"
+    },
+    {
+        "descripcion": "El trabajador todotero quedó atrapado dentro de un pequeño ducto mientras realizaba una reparación de tuberías.",
+        "tipo": "Atrapado"
+    },
+    {
+        "descripcion": "El mensajero en moto quedó cogido por la puerta de un vehículo cuando un conductor la abrió repentinamente.",
+        "tipo": "Cogido"
+    },
+    {
+        "descripcion": "El mensajero en carro quedó cogido con su cinturón de seguridad tras un impacto lateral.",
+        "tipo": "Cogido"
+    },
+    {
+        "descripcion": "Un trabajador en bodega quedó cogido cuando su ropa se enredó en una máquina de embalaje.",
+        "tipo": "Cogido"
+    },
+    {
+        "descripcion": "Un trabajador en altura quedó cogido cuando su cuerda de seguridad se atascó entre dos vigas.",
+        "tipo": "Cogido"
+    },
+    {
+        "descripcion": "La trabajadora de aseo quedó cogida cuando su delantal se enganchó en un ascensor de carga.",
+        "tipo": "Cogido"
+    },
+    {
+        "descripcion": "El jardinero quedó cogido cuando su pantalón se enganchó en una cerca de alambre de púas.",
+        "tipo": "Cogido"
+    },
+    {
+        "descripcion": "El trabajador todotero quedó cogido cuando su brazo quedó atrapado entre dos tablones mientras reparaba una estructura.",
+        "tipo": "Cogido"
+    },
+    {
+        "descripcion": "El mensajero en moto quedó atrapado entre dos camiones tras ser golpeado por un vehículo en movimiento.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "El mensajero en carro quedó atrapado debajo de un puente colapsado tras un derrumbe.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "Un trabajador en bodega quedó atrapado entre dos estanterías cuando una de ellas se derrumbó.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "Un trabajador en altura quedó atrapado debajo de una plataforma que colapsó por una falla estructural.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "Mientras limpiaba un área de maquinaria pesada, la trabajadora de aseo quedó atrapada debajo de una carga caída.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "El jardinero quedó atrapado entre dos troncos al intentar moverlos manualmente.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "El trabajador todotero quedó atrapado debajo de una estantería caída mientras organizaba herramientas en un almacén.",
+        "tipo": "Atrapado entre o debajo"
+    },
+    {
+        "descripcion": "El mensajero en moto sufrió quemaduras al hacer contacto con el escape caliente de su vehículo tras una caída.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "El mensajero en carro sufrió una descarga eléctrica al tocar un cable de batería expuesto mientras revisaba su motor.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "Un trabajador en bodega inhaló vapores tóxicos al manipular productos químicos sin la debida protección.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "Un trabajador en altura sufrió una descarga eléctrica al tocar accidentalmente un cable de alta tensión mientras instalaba una estructura metálica.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "La trabajadora de aseo sufrió irritación severa en la piel tras el contacto con un detergente industrial concentrado.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "El jardinero sufrió una reacción alérgica grave tras el contacto con una planta venenosa durante una poda.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "El trabajador todotero sufrió quemaduras al entrar en contacto con una tubería de vapor sin protección.",
+        "tipo": "Contacto con"
+    },
+    {
+        "descripcion": "El mensajero en moto sufrió una lesión en la espalda tras manejar por largas horas sin descanso.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    },
+    {
+        "descripcion": "El mensajero en carro sufrió un esguince en la muñeca tras forzar el volante en un giro brusco.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    },
+    {
+        "descripcion": "Un trabajador en bodega sufrió una lesión lumbar tras levantar una caja pesada sin ayuda.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    },
+    {
+        "descripcion": "Un trabajador en altura sufrió una contractura muscular por mantener una postura incómoda durante un largo periodo.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    },
+    {
+        "descripcion": "La trabajadora de aseo sufrió una lesión en la muñeca tras exprimir trapos repetidamente durante su jornada.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    },
+    {
+        "descripcion": "El jardinero sufrió una lesión en el hombro tras realizar movimientos repetitivos con la desbrozadora.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    },
+    {
+        "descripcion": "El trabajador todotero sufrió una contractura en la espalda tras agacharse repetidamente para reparar una tubería en un espacio reducido.",
+        "tipo": "Sobretensión/Sobre-esfuerzo"
+    }
+]
